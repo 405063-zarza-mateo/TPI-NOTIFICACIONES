@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tpi</groupId>
-	<artifactId>notificaciones</artifactId>
+	<artifactId>notifications</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>notificaciones</name>
-	<description>microservicio de notificaciones</description>
+	<name>notifications</name>
+	<description>notification microservice</description>
 	<url/>
 	<licenses>
 		<license/>
